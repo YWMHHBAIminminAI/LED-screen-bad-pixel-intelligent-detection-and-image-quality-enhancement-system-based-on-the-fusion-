@@ -6,7 +6,7 @@ Python, PyTorch, OpenCV, C# WPF, ONNX, Gradio, Dify/Coze
 
 ## **项目模块**
 
-### **模块一（算法核心）
+### **模块一（算法核心）**
 - **：使用PyTorch训练一个轻量级的坏点/缺陷检测模型（如改进的YOLO），并使用W&B记录完整的训练实验。
 
 ### **模块二（传统融合）**
