@@ -1,4 +1,4 @@
-# DepartmentTestBaseOnGoland
+# LED screen bad pixel intelligent detection and image quality enhancement system based on the fusion of traditional algorithms and deep learning
 基于传统算法与深度学习融合的LED屏坏点智能检测与画质增强系统
 
 ## **技术栈**
